@@ -1,0 +1,8 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+
+# Database connector for MySQL
+mysql-connector-python==8.2.0
+
+# Airflow Providers (ETL only)
+apache-airflow-providers-mysql
+apache-airflow-providers-http

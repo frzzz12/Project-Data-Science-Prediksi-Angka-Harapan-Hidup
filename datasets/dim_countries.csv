@@ -1,0 +1,251 @@
+country_code,country_code_2,country_name,region,sub_region,income_group,population,area_km2,capital,languages,currency,lat,lon,created_at,updated_at
+ABW,AW,Aruba,Americas,Caribbean,Upper middle income,107310,180.0,Oranjestad,"Dutch, Papiamento",AWG,12.5,-69.966667,2026-09-30 02:09:02,2026-10-03 10:48:05
+AFG,AF,Afghanistan,Asia,Southern Asia,Low income,40578842,652230.0,Kabul,"Dari, Pashto, Turkmen",AFN,33.0,65.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+AGO,AO,Angola,Africa,Middle Africa,Lower middle income,35635029,1246700.0,Luanda,Portuguese,AOA,-12.5,18.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+AIA,AI,Anguilla,Americas,Caribbean,Upper middle income,5460,91.0,The Valley,English,XCD,18.25,-63.166667,2026-09-30 02:09:02,2026-10-03 10:48:05
+ALA,AX,Åland Islands,Europe,Northern Europe,High income,94800,1580.0,Mariehamn,Swedish,EUR,60.116667,19.9,2026-09-30 02:09:02,2026-10-03 10:48:05
+ALB,AL,Albania,Europe,Southeast Europe,Lower middle income,2451636,28748.0,Tirana,Albanian,ALL,41.0,20.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+AND,AD,Andorra,Europe,Southern Europe,High income,79705,468.0,Andorra la Vella,Catalan,EUR,42.5,1.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+ARE,AE,United Arab Emirates,Asia,Western Asia,Upper middle income,10074977,83600.0,Abu Dhabi,Arabic,AED,24.0,54.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ARG,AR,Argentina,Americas,South America,Upper middle income,45407904,2780400.0,Buenos Aires,"Guaraní, Spanish",ARS,-34.0,-64.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ARM,AM,Armenia,Asia,Western Asia,Upper middle income,2969200,29743.0,Yerevan,Armenian,AMD,40.0,45.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ASM,AS,American Samoa,Oceania,Polynesia,Lower middle income,48342,199.0,Pago Pago,"English, Samoan",USD,-14.333333,-170.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ATA,AQ,Antarctica,Antarctic,General,Lower middle income,840000000,14000000.0,N/A,Official,USD,-90.0,0.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ATF,TF,French Southern and Antarctic Lands,Antarctic,General,Lower middle income,464820,7747.0,Port-aux-Français,French,EUR,-49.25,69.167,2026-09-30 02:09:02,2026-10-03 10:48:05
+ATG,AG,Antigua and Barbuda,Americas,Caribbean,Upper middle income,92840,442.0,Saint John's,English,XCD,17.05,-61.8,2026-09-30 02:09:02,2026-10-03 10:48:05
+AUS,AU,Australia,Oceania,Australia and New Zealand,High income,26018721,7692024.0,Canberra,English,AUD,-27.0,133.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+AUT,AT,Austria,Europe,Central Europe,Lower middle income,9041851,83871.0,Vienna,Austro-Bavarian German,EUR,47.333333,13.333333,2026-09-30 02:09:02,2026-10-03 10:48:05
+AZE,AZ,Azerbaijan,Asia,Western Asia,Upper middle income,10141756,86600.0,Baku,"Azerbaijani, Russian",AZN,40.5,47.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+BDI,BI,Burundi,Africa,Eastern Africa,Low income,13321097,27834.0,Gitega,"French, Kirundi",BIF,-3.5,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BEL,BE,Belgium,Europe,Western Europe,High income,11680210,30528.0,Brussels,"German, French, Dutch",EUR,50.833333,4.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BEN,BJ,Benin,Africa,Western Africa,Lower middle income,13759501,112622.0,Porto-Novo,French,XOF,9.5,2.25,2026-09-30 02:09:02,2026-10-03 10:48:05
+BES,BQ,Caribbean Netherlands,Americas,Caribbean,Upper middle income,19680,328.0,"Kralendijk, Oranjestad, The Bottom","English, Dutch, Papiamento",USD,12.18,-68.25,2026-09-30 02:09:02,2026-10-03 10:48:05
+BFA,BF,Burkina Faso,Africa,Western Africa,Low income,22509038,272967.0,Ouagadougou,French,XOF,13.0,-2.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BGD,BD,Bangladesh,Asia,Southern Asia,Lower middle income,169384897,147570.0,Dhaka,Bengali,BDT,24.0,90.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BGR,BG,Bulgaria,Europe,Southeast Europe,Lower middle income,6465097,110879.0,Sofia,Bulgarian,EUR,43.0,25.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BHR,BH,Bahrain,Asia,Western Asia,Upper middle income,1524693,765.0,Manama,Arabic,BHD,26.0,50.55,2026-09-30 02:09:02,2026-10-03 10:48:05
+BHS,BS,Bahamas,Americas,Caribbean,Upper middle income,397538,13943.0,Nassau,English,"BSD, USD",24.25,-76.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BIH,BA,Bosnia and Herzegovina,Europe,Southeast Europe,Lower middle income,3204802,51209.0,Sarajevo,"Bosnian, Croatian, Serbian",BAM,44.0,18.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BLM,BL,Saint Barthélemy,Americas,Caribbean,Upper middle income,1260,21.0,Gustavia,French,EUR,18.5,-63.416667,2026-09-30 02:09:02,2026-10-03 10:48:05
+BLR,BY,Belarus,Europe,Eastern Europe,Upper middle income,9228071,207600.0,Minsk,"Belarusian, Russian",BYN,53.0,28.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BLZ,BZ,Belize,Americas,Central America,Lower middle income,402733,22966.0,Belmopan,"Belizean Creole, English, Spanish",BZD,17.25,-88.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+BMU,BM,Bermuda,Americas,North America,Lower middle income,64749,54.0,Hamilton,English,BMD,32.333333,-64.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+BOL,BO,Bolivia,Americas,South America,Upper middle income,12077154,1098581.0,Sucre,"Aymara, Guaraní, Quechua, Spanish",BOB,-17.0,-65.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BRA,BR,Brazil,Americas,South America,Upper middle income,210306415,8515767.0,Brasília,Portuguese,BRL,-10.0,-55.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+BRB,BB,Barbados,Americas,Caribbean,Upper middle income,282318,430.0,Bridgetown,English,BBD,13.166667,-59.533333,2026-09-30 02:09:02,2026-10-03 10:48:05
+BRN,BN,Brunei,Asia,South-Eastern Asia,Lower middle income,455370,5765.0,Bandar Seri Begawan,Malay,"BND, SGD",4.5,114.666667,2026-09-30 02:09:02,2026-10-03 10:48:05
+BTN,BT,Bhutan,Asia,Southern Asia,Lower middle income,780914,38394.0,Thimphu,Dzongkha,"BTN, INR",27.5,90.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+BVT,BV,Bouvet Island,Antarctic,General,Lower middle income,2940,49.0,N/A,Norwegian,USD,-54.433333,3.4,2026-09-30 02:09:02,2026-10-03 10:48:05
+BWA,BW,Botswana,Africa,Southern Africa,Lower middle income,2439892,582000.0,Gaborone,"English, Tswana",BWP,-22.0,24.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CAF,CF,Central African Republic,Africa,Middle Africa,Low income,5098039,622984.0,Bangui,"French, Sango",XAF,7.0,21.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CAN,CA,Canada,Americas,North America,Lower middle income,38950132,9984670.0,Ottawa,"English, French",CAD,60.0,-95.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CCK,CC,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,High income,840,14.0,West Island,English,AUD,-12.5,96.833333,2026-09-30 02:09:02,2026-10-03 10:48:05
+CHE,CH,Switzerland,Europe,Western Europe,High income,8777088,41284.0,Bern,"French, Swiss German, Italian, Romansh",CHF,47.0,8.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CHL,CL,Chile,Americas,South America,Upper middle income,19553036,756102.0,Santiago,Spanish,CLP,-30.0,-71.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CHN,CN,China,Asia,Eastern Asia,Upper middle income,1412175000,9706961.0,Beijing,Chinese,CNY,35.0,105.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CIV,CI,Ivory Coast,Africa,Western Africa,Lower middle income,30395002,322463.0,Yamoussoukro,French,XOF,8.0,-5.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CMR,CM,Cameroon,Africa,Middle Africa,Lower middle income,27632771,475442.0,Yaoundé,"English, French",XAF,6.0,12.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+COD,CD,DR Congo,Africa,Middle Africa,Low income,102396968,2344858.0,Kinshasa,"French, Kikongo, Lingala, Tshiluba, Swahili",CDF,0.0,25.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+COG,CG,Congo,Africa,Middle Africa,Low income,6035104,342000.0,Brazzaville,"French, Kikongo, Lingala",XAF,-1.0,15.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+COK,CK,Cook Islands,Oceania,Polynesia,Lower middle income,14160,236.0,Avarua,"English, Cook Islands Māori","CKD, NZD",-21.233333,-159.766667,2026-09-30 02:09:02,2026-10-03 10:48:05
+COL,CO,Colombia,Americas,South America,Upper middle income,51737944,1141748.0,Bogotá,Spanish,COP,4.0,-72.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+COM,KM,Comoros,Africa,Eastern Africa,Lower middle income,834188,1862.0,Moroni,"Arabic, French, Comorian",KMF,-12.166667,44.25,2026-09-30 02:09:02,2026-10-03 10:48:05
+CPV,CV,Cape Verde,Africa,Western Africa,Lower middle income,519741,4033.0,Praia,Portuguese,CVE,16.0,-24.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CRI,CR,Costa Rica,Americas,Central America,Lower middle income,5081765,51100.0,San José,Spanish,CRC,10.0,-84.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CUB,CU,Cuba,Americas,Caribbean,Upper middle income,11059820,109884.0,Havana,Spanish,"CUC, CUP",21.5,-80.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CUW,CW,Curaçao,Americas,Caribbean,Upper middle income,153321,444.0,Willemstad,"English, Dutch, Papiamento",ANG,12.116667,-68.933333,2026-09-30 02:09:02,2026-10-03 10:48:05
+CXR,CX,Christmas Island,Oceania,Australia and New Zealand,High income,8100,135.0,Flying Fish Cove,English,AUD,-10.5,105.666667,2026-09-30 02:09:02,2026-10-03 10:48:05
+CYM,KY,Cayman Islands,Americas,Caribbean,Upper middle income,71591,264.0,George Town,English,KYD,19.5,-80.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+CYP,CY,Cyprus,Europe,Southern Europe,High income,1331370,9251.0,Nicosia,"Greek, Turkish",EUR,35.0,33.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+CZE,CZ,Czechia,Europe,Central Europe,Lower middle income,10672118,78865.0,Prague,"Czech, Slovak",CZK,49.75,15.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+DEU,DE,Germany,Europe,Western Europe,High income,83177813,357114.0,Berlin,German,EUR,51.0,9.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+DJI,DJ,Djibouti,Africa,Eastern Africa,Lower middle income,1137096,23200.0,Djibouti,"Arabic, French",DJF,11.5,43.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+DMA,DM,Dominica,Americas,Caribbean,Upper middle income,66826,751.0,Roseau,English,XCD,15.416667,-61.333333,2026-09-30 02:09:02,2026-10-03 10:48:05
+DNK,DK,Denmark,Europe,Northern Europe,High income,5903037,43094.0,Copenhagen,Danish,DKK,56.0,10.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+DOM,DO,Dominican Republic,Americas,Caribbean,Upper middle income,11230734,48671.0,Santo Domingo,Spanish,DOP,19.0,-70.666667,2026-09-30 02:09:02,2026-10-03 10:48:05
+DZA,DZ,Algeria,Africa,Northern Africa,Lower middle income,45477389,2381741.0,Algiers,Arabic,DZD,28.0,3.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ECU,EC,Ecuador,Americas,South America,Upper middle income,17823897,276841.0,Quito,Spanish,USD,-2.0,-77.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+EGY,EG,Egypt,Africa,Northern Africa,Lower middle income,112618250,1002450.0,Cairo,Arabic,EGP,27.0,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ERI,ER,Eritrea,Africa,Eastern Africa,Low income,3409447,117600.0,Asmara,"Arabic, English, Tigrinya",ERN,15.0,39.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ESH,EH,Western Sahara,Africa,Northern Africa,Lower middle income,15960000,266000.0,El Aaiún,"Berber, Hassaniya, Spanish","DZD, MAD, MRU",24.5,-13.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ESP,ES,Spain,Europe,Southern Europe,High income,47786102,505992.0,Madrid,Spanish,EUR,40.0,-4.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+EST,EE,Estonia,Europe,Northern Europe,High income,1348840,45227.0,Tallinn,Estonian,EUR,59.0,26.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ETH,ET,Ethiopia,Africa,Eastern Africa,Low income,125384287,1104300.0,Addis Ababa,Amharic,ETB,8.0,38.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+FIN,FI,Finland,Europe,Northern Europe,High income,5556106,338424.0,Helsinki,"Finnish, Swedish",EUR,64.0,26.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+FJI,FJ,Fiji,Oceania,Melanesia,Lower middle income,919422,18272.0,Suva,"English, Fijian, Fiji Hindi",FJD,-18.0,175.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+FLK,FK,Falkland Islands,Americas,South America,Upper middle income,730380,12173.0,Stanley,English,FKP,-51.75,-59.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+FRA,FR,France,Europe,Western Europe,High income,68184457,551695.0,Paris,French,EUR,46.0,2.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+FRO,FO,Faroe Islands,Europe,Northern Europe,High income,53903,1393.0,Tórshavn,"Danish, Faroese","DKK, FOK",62.0,-7.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+FSM,FM,Micronesia,Oceania,Micronesia,Lower middle income,112114,702.0,Palikir,English,USD,6.916667,158.25,2026-09-30 02:09:02,2026-10-03 10:48:05
+GAB,GA,Gabon,Africa,Middle Africa,Lower middle income,2430747,267668.0,Libreville,French,XAF,-1.0,11.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+GBR,GB,United Kingdom,Europe,Northern Europe,High income,67636000,242900.0,London,English,GBP,54.0,-2.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GEO,GE,Georgia,Asia,Western Asia,Upper middle income,3712502,69700.0,Tbilisi,Georgian,GEL,42.0,43.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+GGY,GG,Guernsey,Europe,Northern Europe,High income,4680,78.0,St. Peter Port,"English, French, Guernésiais","GBP, GGP",49.466667,-2.583333,2026-09-30 02:09:02,2026-10-03 10:48:05
+GHA,GH,Ghana,Africa,Western Africa,Lower middle income,33149152,238533.0,Accra,English,GHS,8.0,-2.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GIB,GI,Gibraltar,Europe,Southern Europe,High income,37609,6.0,Gibraltar,English,GIP,36.133333,-5.35,2026-09-30 02:09:02,2026-10-03 10:48:05
+GIN,GN,Guinea,Africa,Western Africa,Low income,14055137,245857.0,Conakry,French,GNF,11.0,-10.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GLP,GP,Guadeloupe,Americas,Caribbean,Upper middle income,97680,1628.0,Basse-Terre,French,EUR,16.25,-61.583333,2026-09-30 02:09:02,2026-10-03 10:48:05
+GMB,GM,Gambia,Africa,Western Africa,Low income,2636470,10689.0,Banjul,English,GMD,13.466667,-16.566667,2026-09-30 02:09:02,2026-10-03 10:48:05
+GNB,GW,Guinea-Bissau,Africa,Western Africa,Low income,2105529,36125.0,Bissau,"Portuguese, Upper Guinea Creole",XOF,12.0,-15.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GNQ,GQ,Equatorial Guinea,Africa,Middle Africa,Lower middle income,1803545,28051.0,Malabo,"French, Portuguese, Spanish",XAF,2.0,10.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GRC,GR,Greece,Europe,Southern Europe,High income,10437805,131990.0,Athens,Greek,EUR,39.0,22.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GRD,GD,Grenada,Americas,Caribbean,Upper middle income,116913,344.0,St. George's,English,XCD,12.116667,-61.666667,2026-09-30 02:09:02,2026-10-03 10:48:05
+GRL,GL,Greenland,Americas,North America,Lower middle income,56661,2166086.0,Nuuk,Greenlandic,DKK,72.0,-40.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GTM,GT,Guatemala,Americas,Central America,Lower middle income,17847877,108889.0,Guatemala City,Spanish,GTQ,15.5,-90.25,2026-09-30 02:09:02,2026-10-03 10:48:05
+GUF,GF,French Guiana,Americas,South America,Upper middle income,5012040,83534.0,Cayenne,French,EUR,4.0,-53.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+GUM,GU,Guam,Oceania,Micronesia,Lower middle income,165180,549.0,Hagåtña,"Chamorro, English, Spanish",USD,13.466667,144.783333,2026-09-30 02:09:02,2026-10-03 10:48:05
+GUY,GY,Guyana,Americas,South America,Upper middle income,821637,214969.0,Georgetown,English,GYD,5.0,-59.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+HKG,HK,Hong Kong,Asia,Eastern Asia,Upper middle income,7346100,1104.0,City of Victoria,"English, Chinese",HKD,22.267,114.188,2026-09-30 02:09:02,2026-10-03 10:48:05
+HMD,HM,Heard Island and McDonald Islands,Antarctic,General,Lower middle income,24720,412.0,N/A,English,USD,-53.1,72.516667,2026-09-30 02:09:02,2026-10-03 10:48:05
+HND,HN,Honduras,Americas,Central America,Lower middle income,10463872,112492.0,Tegucigalpa,Spanish,HNL,15.0,-86.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+HRV,HR,Croatia,Europe,Southeast Europe,Lower middle income,3855641,56594.0,Zagreb,Croatian,EUR,45.166667,15.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+HTI,HT,Haiti,Americas,Caribbean,Low income,11503606,27750.0,Port-au-Prince,"French, Haitian Creole",HTG,19.0,-72.416667,2026-09-30 02:09:02,2026-10-03 10:48:05
+HUN,HU,Hungary,Europe,Central Europe,Lower middle income,9605074,93028.0,Budapest,Hungarian,HUF,47.0,20.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+IDN,ID,Indonesia,Asia,South-Eastern Asia,Lower middle income,278830529,1904569.0,Jakarta,Indonesian,IDR,-5.0,120.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+IMN,IM,Isle of Man,Europe,Northern Europe,High income,84132,572.0,Douglas,"English, Manx","GBP, IMP",54.25,-4.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+IND,IN,India,Asia,Southern Asia,Lower middle income,1425423212,3287590.0,New Delhi,"English, Hindi, Tamil",INR,20.0,77.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+IOT,IO,British Indian Ocean Territory,Africa,Eastern Africa,Lower middle income,3600,60.0,Diego Garcia,English,USD,-6.0,71.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+IRL,IE,Ireland,Europe,Northern Europe,High income,5212836,70273.0,Dublin,"English, Irish",EUR,53.0,-8.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+IRN,IR,Iran,Asia,Southern Asia,Lower middle income,89524246,1648195.0,Tehran,Persian (Farsi),IRR,32.0,53.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+IRQ,IQ,Iraq,Asia,Western Asia,Upper middle income,44070551,438317.0,Baghdad,"Arabic, Aramaic, Sorani",IQD,33.0,44.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ISL,IS,Iceland,Europe,Northern Europe,High income,382003,103000.0,Reykjavik,Icelandic,ISK,65.0,-18.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ISR,IL,Israel,Asia,Western Asia,Upper middle income,9557500,20770.0,Jerusalem,"Arabic, Hebrew",ILS,31.47,35.13,2026-09-30 02:09:02,2026-10-03 10:48:05
+ITA,IT,Italy,Europe,Southern Europe,High income,59013667,301336.0,Rome,Italian,EUR,42.833333,12.833333,2026-09-30 02:09:02,2026-10-03 10:48:05
+JAM,JM,Jamaica,Americas,Caribbean,Upper middle income,2839144,10991.0,Kingston,"English, Jamaican Patois",JMD,18.25,-77.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+JEY,JE,Jersey,Europe,Northern Europe,High income,6960,116.0,Saint Helier,"English, French, Jèrriais","GBP, JEP",49.25,-2.166667,2026-09-30 02:09:02,2026-10-03 10:48:05
+JOR,JO,Jordan,Asia,Western Asia,Upper middle income,11256263,89342.0,Amman,Arabic,JOD,31.0,36.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+JPN,JP,Japan,Asia,Eastern Asia,Upper middle income,125124989,377930.0,Tokyo,Japanese,JPY,36.0,138.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+KAZ,KZ,Kazakhstan,Asia,Central Asia,Lower middle income,20034609,2724900.0,Astana,"Kazakh, Russian",KZT,48.0,68.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+KEN,KE,Kenya,Africa,Eastern Africa,Lower middle income,54252461,580367.0,Nairobi,"English, Swahili",KES,1.0,38.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+KGZ,KG,Kyrgyzstan,Asia,Central Asia,Lower middle income,6975220,199951.0,Bishkek,"Kyrgyz, Russian",KGS,41.0,75.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+KHM,KH,Cambodia,Asia,South-Eastern Asia,Lower middle income,17201724,181035.0,Phnom Penh,Khmer,"KHR, USD",13.0,105.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+KIR,KI,Kiribati,Oceania,Micronesia,Lower middle income,130469,811.0,South Tarawa,"English, Gilbertese","AUD, KID",1.416667,173.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+KNA,KN,Saint Kitts and Nevis,Americas,Caribbean,Upper middle income,46709,261.0,Basseterre,English,XCD,17.333333,-62.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+KOR,KR,South Korea,Asia,Eastern Asia,Upper middle income,51672569,100210.0,Seoul,Korean,KRW,37.0,127.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+KWT,KW,Kuwait,Asia,Western Asia,Upper middle income,4589643,17818.0,Kuwait City,Arabic,KWD,29.5,45.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+LAO,LA,Laos,Asia,South-Eastern Asia,Lower middle income,7559007,236800.0,Vientiane,Lao,LAK,18.0,105.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+LBN,LB,Lebanon,Asia,Western Asia,Upper middle income,5744489,10452.0,Beirut,"Arabic, French",LBP,33.833333,35.833333,2026-09-30 02:09:02,2026-10-03 10:48:05
+LBR,LR,Liberia,Africa,Western Africa,Low income,5373294,111369.0,Monrovia,English,LRD,6.5,-9.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+LBY,LY,Libya,Africa,Northern Africa,Lower middle income,7223805,1759540.0,Tripoli,Arabic,LYD,25.0,17.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+LCA,LC,Saint Lucia,Americas,Caribbean,Upper middle income,178781,616.0,Castries,English,XCD,13.883333,-60.966667,2026-09-30 02:09:02,2026-10-03 10:48:05
+LIE,LI,Liechtenstein,Europe,Western Europe,High income,39493,160.0,Vaduz,German,CHF,47.266667,9.533333,2026-09-30 02:09:02,2026-10-03 10:48:05
+LKA,LK,Sri Lanka,Asia,Southern Asia,Lower middle income,22181000,65610.0,Colombo,"Sinhala, Tamil",LKR,7.0,81.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+LSO,LS,Lesotho,Africa,Southern Africa,Lower middle income,2286110,30355.0,Maseru,"English, Sotho","LSL, ZAR",-29.5,28.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+LTU,LT,Lithuania,Europe,Northern Europe,High income,2831639,65300.0,Vilnius,Lithuanian,EUR,56.0,24.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+LUX,LU,Luxembourg,Europe,Western Europe,High income,653103,2586.0,Luxembourg,"German, French, Luxembourgish",EUR,49.75,6.166667,2026-09-30 02:09:02,2026-10-03 10:48:05
+LVA,LV,Latvia,Europe,Northern Europe,High income,1879383,64559.0,Riga,Latvian,EUR,57.0,25.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MAC,MO,Macau,Asia,Eastern Asia,Upper middle income,677300,30.0,N/A,"Portuguese, Chinese",MOP,22.166667,113.55,2026-09-30 02:09:02,2026-10-03 10:48:05
+MAF,MF,Saint Martin,Americas,Caribbean,Upper middle income,28870,53.0,Marigot,French,EUR,18.083333,-63.95,2026-09-30 02:09:02,2026-10-03 10:48:05
+MAR,MA,Morocco,Africa,Northern Africa,Lower middle income,37329064,446550.0,Rabat,"Arabic, Berber",MAD,32.0,-5.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MCO,MC,Monaco,Europe,Western Europe,High income,38931,2.02,Monaco,French,EUR,43.733333,7.4,2026-09-30 02:09:02,2026-10-03 10:48:05
+MDA,MD,Moldova,Europe,Eastern Europe,Upper middle income,2528654,33846.0,Chișinău,Moldavian,MDL,47.0,29.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MDG,MG,Madagascar,Africa,Eastern Africa,Low income,30437261,587041.0,Antananarivo,"French, Malagasy",MGA,-20.0,47.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MDV,MV,Maldives,Asia,Southern Asia,Lower middle income,524106,300.0,Malé,Maldivian,MVR,3.25,73.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MEX,MX,Mexico,Americas,North America,Lower middle income,128613117,1964375.0,Mexico City,Spanish,MXN,23.0,-102.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MHL,MH,Marshall Islands,Oceania,Micronesia,Lower middle income,40077,181.0,Majuro,"English, Marshallese",USD,9.0,168.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MKD,MK,North Macedonia,Europe,Southeast Europe,Lower middle income,1831712,25713.0,Skopje,Macedonian,MKD,41.833333,22.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MLI,ML,Mali,Africa,Western Africa,Low income,23072640,1240192.0,Bamako,French,XOF,17.0,-4.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MLT,MT,Malta,Europe,Southern Europe,High income,531113,316.0,Valletta,"English, Maltese",EUR,35.833333,14.583333,2026-09-30 02:09:02,2026-10-03 10:48:05
+MMR,MM,Myanmar,Asia,South-Eastern Asia,Lower middle income,53756787,676578.0,Naypyidaw,Burmese,MMK,22.0,98.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MNE,ME,Montenegro,Europe,Southeast Europe,Lower middle income,623591,13812.0,Podgorica,Montenegrin,EUR,42.5,19.3,2026-09-30 02:09:02,2026-10-03 10:48:05
+MNG,MN,Mongolia,Asia,Eastern Asia,Upper middle income,3433748,1564110.0,Ulan Bator,Mongolian,MNT,46.0,105.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MNP,MP,Northern Mariana Islands,Oceania,Micronesia,Lower middle income,46078,464.0,Saipan,"Carolinian, Chamorro, English",USD,15.2,145.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+MOZ,MZ,Mozambique,Africa,Eastern Africa,Low income,32656246,801590.0,Maputo,Portuguese,MZN,-18.25,35.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MRT,MR,Mauritania,Africa,Western Africa,Lower middle income,4875637,1030700.0,Nouakchott,Arabic,MRU,20.0,-12.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MSR,MS,Montserrat,Americas,Caribbean,Upper middle income,6120,102.0,Plymouth,English,XCD,16.75,-62.2,2026-09-30 02:09:02,2026-10-03 10:48:05
+MTQ,MQ,Martinique,Americas,Caribbean,Upper middle income,67680,1128.0,Fort-de-France,French,EUR,14.666667,-61.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MUS,MU,Mauritius,Africa,Eastern Africa,Lower middle income,1262523,2040.0,Port Louis,"English, French, Mauritian Creole",MUR,-20.283333,57.55,2026-09-30 02:09:02,2026-10-03 10:48:05
+MWI,MW,Malawi,Africa,Eastern Africa,Low income,20568728,118484.0,Lilongwe,"English, Chewa",MWK,-13.5,34.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+MYS,MY,Malaysia,Asia,South-Eastern Asia,Lower middle income,34695493,330803.0,Kuala Lumpur,"English, Malay",MYR,2.5,112.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+MYT,YT,Mayotte,Africa,Eastern Africa,Lower middle income,22440,374.0,Mamoudzou,French,EUR,-12.833333,45.166667,2026-09-30 02:09:02,2026-10-03 10:48:05
+NAM,NA,Namibia,Africa,Southern Africa,Lower middle income,2889662,825615.0,Windhoek,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana","NAD, ZAR",-22.0,17.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+NCL,NC,New Caledonia,Oceania,Melanesia,Lower middle income,287123,18575.0,Nouméa,French,XPF,-21.5,165.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+NER,NE,Niger,Africa,Western Africa,Low income,25311973,1267000.0,Niamey,French,XOF,16.0,8.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+NFK,NF,Norfolk Island,Oceania,Australia and New Zealand,High income,2160,36.0,Kingston,"English, Norfuk",AUD,-29.033333,167.95,2026-09-30 02:09:02,2026-10-03 10:48:05
+NGA,NG,Nigeria,Africa,Western Africa,Lower middle income,223150896,923768.0,Abuja,English,NGN,10.0,8.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+NIC,NI,Nicaragua,Americas,Central America,Lower middle income,6730654,130373.0,Managua,Spanish,NIO,13.0,-85.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+NIU,NU,Niue,Oceania,Polynesia,Lower middle income,15600,260.0,Alofi,"English, Niuean",NZD,-19.033333,-169.866667,2026-09-30 02:09:02,2026-10-03 10:48:05
+NLD,NL,Netherlands,Europe,Western Europe,High income,17700982,41850.0,Amsterdam,Dutch,EUR,52.5,5.75,2026-09-30 02:09:02,2026-10-03 10:48:05
+NOR,NO,Norway,Europe,Northern Europe,High income,5457127,323802.0,Oslo,"Norwegian Nynorsk, Norwegian Bokmål, Sami",NOK,62.0,10.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+NPL,NP,Nepal,Asia,Southern Asia,Lower middle income,29715436,147181.0,Kathmandu,Nepali,NPR,28.0,84.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+NRU,NR,Nauru,Oceania,Micronesia,Lower middle income,11801,21.0,Yaren,"English, Nauru",AUD,-0.533333,166.916667,2026-09-30 02:09:02,2026-10-03 10:48:05
+NZL,NZ,New Zealand,Oceania,Australia and New Zealand,High income,5081700,270467.0,Wellington,"English, Māori, New Zealand Sign Language",NZD,-41.0,174.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+OMN,OM,Oman,Asia,Western Asia,Upper middle income,4730226,309500.0,Muscat,Arabic,OMR,21.0,57.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PAK,PK,Pakistan,Asia,Southern Asia,Lower middle income,243700667,881912.0,Islamabad,"English, Urdu",PKR,30.0,70.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PAN,PA,Panama,Americas,Central America,Lower middle income,4400773,75417.0,Panama City,Spanish,"PAB, USD",9.0,-80.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PCN,PN,Pitcairn Islands,Oceania,Polynesia,Lower middle income,2820,47.0,Adamstown,English,NZD,-25.066667,-130.1,2026-09-30 02:09:02,2026-10-03 10:48:05
+PER,PE,Peru,Americas,South America,Upper middle income,33475438,1285216.0,Lima,"Aymara, Quechua, Spanish",PEN,-10.0,-76.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PHL,PH,Philippines,Asia,South-Eastern Asia,Lower middle income,113964338,342353.0,Manila,"English, Filipino",PHP,13.0,122.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PLW,PW,Palau,Oceania,Micronesia,Lower middle income,17759,459.0,Ngerulmud,"English, Palauan",USD,7.5,134.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+PNG,PG,Papua New Guinea,Oceania,Melanesia,Lower middle income,10203169,462840.0,Port Moresby,"English, Hiri Motu, Tok Pisin",PGK,-6.0,147.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+POL,PL,Poland,Europe,Central Europe,Lower middle income,36821749,312679.0,Warsaw,Polish,PLN,52.0,20.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PRI,PR,Puerto Rico,Americas,Caribbean,Upper middle income,3220148,8870.0,San Juan,"English, Spanish",USD,18.25,-66.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+PRK,KP,North Korea,Asia,Eastern Asia,Low income,26328845,120538.0,Pyongyang,Korean,KPW,40.0,127.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PRT,PT,Portugal,Europe,Southern Europe,High income,10434332,92090.0,Lisbon,Portuguese,EUR,39.5,-8.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PRY,PY,Paraguay,Americas,South America,Upper middle income,6760464,406752.0,Asunción,"Guaraní, Spanish",PYG,-23.0,-58.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+PSE,PS,Palestine,Asia,Western Asia,Upper middle income,5043612,6220.0,Ramallah,Arabic,"EGP, ILS, JOD",31.9,35.2,2026-09-30 02:09:02,2026-10-03 10:48:05
+PYF,PF,French Polynesia,Oceania,Polynesia,Lower middle income,280378,4167.0,Papeetē,French,XPF,-15.0,-140.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+QAT,QA,Qatar,Asia,Western Asia,Upper middle income,2657333,11586.0,Doha,Arabic,QAR,25.5,51.25,2026-09-30 02:09:02,2026-10-03 10:48:05
+REU,RE,Réunion,Africa,Eastern Africa,Lower middle income,150660,2511.0,Saint-Denis,French,EUR,-21.15,55.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+ROU,RO,Romania,Europe,Southeast Europe,Lower middle income,19048502,238391.0,Bucharest,Romanian,RON,46.0,25.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+RUS,RU,Russia,Europe,Eastern Europe,Upper middle income,144236933,17098242.0,Moscow,Russian,RUB,60.0,100.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+RWA,RW,Rwanda,Africa,Eastern Africa,Low income,13651030,26338.0,Kigali,"English, French, Kinyarwanda",RWF,-2.0,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SAU,SA,Saudi Arabia,Asia,Western Asia,Upper middle income,32175224,2149690.0,Riyadh,Arabic,SAR,25.0,45.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SDN,SD,Sudan,Africa,Northern Africa,Low income,49383346,1886068.0,Khartoum,"Arabic, English",SDG,15.0,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SEN,SN,Senegal,Africa,Western Africa,Lower middle income,17651103,196722.0,Dakar,French,XOF,14.0,-14.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SGP,SG,Singapore,Asia,South-Eastern Asia,Lower middle income,5637022,710.0,Singapore,"English, Malay, Tamil, Chinese",SGD,1.366667,103.8,2026-09-30 02:09:02,2026-10-03 10:48:05
+SGS,GS,South Georgia,Antarctic,General,Lower middle income,234180,3903.0,King Edward Point,English,SHP,-54.5,-37.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SHN,SH,"Saint Helena, Ascension and Tristan da Cunha",Africa,Western Africa,Lower middle income,23640,394.0,Jamestown,English,"GBP, SHP",-15.95,-5.72,2026-09-30 02:09:02,2026-10-03 10:48:05
+SJM,SJ,Svalbard and Jan Mayen,Europe,Northern Europe,High income,5000000,-1.0,Longyearbyen,Norwegian,NOK,78.0,20.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SLB,SB,Solomon Islands,Oceania,Melanesia,Lower middle income,781066,28896.0,Honiara,English,SBD,-8.0,159.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SLE,SL,Sierra Leone,Africa,Western Africa,Low income,8276807,71740.0,Freetown,English,SLE,8.5,-11.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+SLV,SV,El Salvador,Americas,Central America,Lower middle income,6280319,21041.0,San Salvador,Spanish,USD,13.833333,-88.916667,2026-09-30 02:09:02,2026-10-03 10:48:05
+SMR,SM,San Marino,Europe,Southern Europe,High income,33755,61.0,City of San Marino,Italian,EUR,43.766667,12.416667,2026-09-30 02:09:02,2026-10-03 10:48:05
+SOM,SO,Somalia,Africa,Eastern Africa,Low income,17801897,637657.0,Mogadishu,"Arabic, Somali",SOS,10.0,49.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SPM,PM,Saint Pierre and Miquelon,Americas,North America,Lower middle income,14520,242.0,Saint-Pierre,French,EUR,46.833333,-56.333333,2026-09-30 02:09:02,2026-10-03 10:48:05
+SRB,RS,Serbia,Europe,Southeast Europe,Lower middle income,6664449,88361.0,Belgrade,Serbian,RSD,44.0,21.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SSD,SS,South Sudan,Africa,Middle Africa,Low income,11021177,619745.0,Juba,English,SSP,7.0,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+STP,ST,São Tomé and Príncipe,Africa,Middle Africa,Lower middle income,226305,964.0,São Tomé,Portuguese,STN,1.0,7.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SUR,SR,Suriname,Americas,South America,Upper middle income,623164,163820.0,Paramaribo,Dutch,SRD,4.0,-56.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SVK,SK,Slovakia,Europe,Central Europe,Lower middle income,5431752,49037.0,Bratislava,Slovak,EUR,48.666667,19.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+SVN,SI,Slovenia,Europe,Central Europe,Lower middle income,2112076,20273.0,Ljubljana,Slovene,EUR,46.116667,14.816667,2026-09-30 02:09:02,2026-10-03 10:48:05
+SWE,SE,Sweden,Europe,Northern Europe,High income,10486941,450295.0,Stockholm,Swedish,SEK,62.0,15.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+SWZ,SZ,Eswatini,Africa,Southern Africa,Lower middle income,1218917,17364.0,Lobamba,"English, Swazi","SZL, ZAR",-26.5,31.5,2026-09-30 02:09:02,2026-10-03 10:48:05
+SXM,SX,Sint Maarten,Americas,Caribbean,Upper middle income,42139,34.0,Philipsburg,"English, French, Dutch",ANG,18.033333,-63.05,2026-09-30 02:09:02,2026-10-03 10:48:05
+SYC,SC,Seychelles,Africa,Eastern Africa,Lower middle income,119878,452.0,Victoria,"Seychellois Creole, English, French",SCR,-4.583333,55.666667,2026-09-30 02:09:02,2026-10-03 10:48:05
+SYR,SY,Syria,Asia,Western Asia,Low income,22462173,185180.0,Damascus,Arabic,SYP,35.0,38.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TCA,TC,Turks and Caicos Islands,Americas,Caribbean,Upper middle income,45847,948.0,Cockburn Town,English,USD,21.75,-71.583333,2026-09-30 02:09:02,2026-10-03 10:48:05
+TCD,TD,Chad,Africa,Middle Africa,Low income,18455316,1284000.0,N'Djamena,"Arabic, French",XAF,15.0,19.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TGO,TG,Togo,Africa,Western Africa,Low income,8068616,56785.0,Lomé,French,XOF,8.0,1.166667,2026-09-30 02:09:02,2026-10-03 10:48:05
+THA,TH,Thailand,Asia,South-Eastern Asia,Lower middle income,71735329,513120.0,Bangkok,Thai,THB,15.0,100.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TJK,TJ,Tajikistan,Asia,Central Asia,Lower middle income,10182222,143100.0,Dushanbe,"Russian, Tajik",TJS,39.0,71.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TKL,TK,Tokelau,Oceania,Polynesia,Lower middle income,720,12.0,Fakaofo,"English, Samoan, Tokelauan",NZD,-9.0,-172.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TKM,TM,Turkmenistan,Asia,Central Asia,Lower middle income,7230193,488100.0,Ashgabat,"Russian, Turkmen",TMT,40.0,60.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TLS,TL,Timor-Leste,Asia,South-Eastern Asia,Lower middle income,1369295,14874.0,Dili,"Portuguese, Tetum",USD,-8.833333,125.916667,2026-09-30 02:09:02,2026-10-03 10:48:05
+TON,TO,Tonga,Oceania,Polynesia,Lower middle income,105042,747.0,Nuku'alofa,"English, Tongan",TOP,-20.0,-175.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TTO,TT,Trinidad and Tobago,Americas,Caribbean,Upper middle income,1365805,5130.0,Port of Spain,English,TTD,11.0,-61.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TUN,TN,Tunisia,Africa,Northern Africa,Lower middle income,12119334,163610.0,Tunis,Arabic,TND,34.0,9.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TUR,TR,Türkiye,Asia,Western Asia,Upper middle income,84979913,783562.0,Ankara,Turkish,TRY,39.0,35.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TUV,TV,Tuvalu,Oceania,Polynesia,Lower middle income,9992,26.0,Funafuti,"English, Tuvaluan","AUD, TVD",-8.0,178.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TWN,TW,Taiwan,Asia,Eastern Asia,Upper middle income,2171580,36193.0,Taipei,Chinese,TWD,23.5,121.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+TZA,TZ,Tanzania,Africa,Eastern Africa,Lower middle income,64711821,945087.0,Dodoma,"English, Swahili",TZS,-6.0,35.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+UGA,UG,Uganda,Africa,Eastern Africa,Low income,47312719,241550.0,Kampala,"English, Swahili",UGX,1.0,32.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+UKR,UA,Ukraine,Europe,Eastern Europe,Upper middle income,41048766,603500.0,Kyiv,Ukrainian,UAH,49.0,32.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+UMI,UM,United States Minor Outlying Islands,Americas,North America,Lower middle income,2052,34.2,N/A,English,USD,19.3,166.633333,2026-09-30 02:09:02,2026-10-03 10:48:05
+UNK,XK,Kosovo,Europe,Southeast Europe,Lower middle income,654480,10908.0,Pristina,"Albanian, Serbian",EUR,42.666667,21.166667,2026-09-30 02:09:02,2026-10-03 10:48:05
+URY,UY,Uruguay,Americas,South America,Upper middle income,3390913,181034.0,Montevideo,Spanish,UYU,-33.0,-56.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+USA,US,United States,Americas,North America,Lower middle income,333996304,9372610.0,Washington D.C.,English,USD,38.0,-97.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+UZB,UZ,Uzbekistan,Asia,Central Asia,Lower middle income,34938955,447400.0,Tashkent,"Russian, Uzbek",UZS,41.0,64.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+VAT,VA,Vatican City,Europe,Southern Europe,High income,26,0.44,Vatican City,"Italian, Latin",EUR,41.9,12.45,2026-09-30 02:09:02,2026-10-03 10:48:05
+VCT,VC,Saint Vincent and the Grenadines,Americas,Caribbean,Upper middle income,102046,389.0,Kingstown,English,XCD,13.25,-61.2,2026-09-30 02:09:02,2026-10-03 10:48:05
+VEN,VE,Venezuela,Americas,South America,Upper middle income,28213017,916445.0,Caracas,Spanish,VES,8.0,-66.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+VGB,VG,British Virgin Islands,Americas,Caribbean,Upper middle income,38319,151.0,Road Town,English,USD,18.431383,-64.62305,2026-09-30 02:09:02,2026-10-03 10:48:05
+VIR,VI,United States Virgin Islands,Americas,Caribbean,Upper middle income,105413,347.0,Charlotte Amalie,English,USD,18.35,-64.933333,2026-09-30 02:09:02,2026-10-03 10:48:05
+VNM,VN,Vietnam,Asia,South-Eastern Asia,Lower middle income,99680655,331212.0,Hanoi,Vietnamese,VND,16.166667,107.833333,2026-09-30 02:09:02,2026-10-03 10:48:05
+VUT,VU,Vanuatu,Oceania,Melanesia,Lower middle income,313046,12189.0,Port Vila,"Bislama, English, French",VUV,-16.0,167.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+WLF,WF,Wallis and Futuna,Oceania,Polynesia,Lower middle income,8520,142.0,Mata-Utu,French,XPF,-13.3,-176.2,2026-09-30 02:09:02,2026-10-03 10:48:05
+WSM,WS,Samoa,Oceania,Polynesia,Lower middle income,215261,2842.0,Apia,"English, Samoan",WST,-13.583333,-172.333333,2026-09-30 02:09:02,2026-10-03 10:48:05
+YEM,YE,Yemen,Asia,Western Asia,Low income,38222876,527968.0,Sana'a,Arabic,YER,15.0,48.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ZAF,ZA,South Africa,Africa,Southern Africa,Lower middle income,62378410,1221037.0,"Pretoria, Bloemfontein, Cape Town","Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",ZAR,-29.0,24.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ZMB,ZM,Zambia,Africa,Eastern Africa,Low income,20152938,752612.0,Lusaka,English,ZMW,-15.0,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05
+ZWE,ZW,Zimbabwe,Africa,Eastern Africa,Lower middle income,16069056,390757.0,Harare,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language","BWP, CNY, EUR, GBP, INR, JPY, USD, ZAR, ZWB",-20.0,30.0,2026-09-30 02:09:02,2026-10-03 10:48:05

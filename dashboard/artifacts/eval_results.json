@@ -1,0 +1,21 @@
+{
+  "Ridge Regression": {
+    "r2": 0.9882,
+    "rmse": 1.03,
+    "mae": 0.778,
+    "mape": 1.18
+  },
+  "Random Forest": {
+    "r2": 0.9969,
+    "rmse": 0.525,
+    "mae": 0.329,
+    "mape": 0.51
+  },
+  "XGBoost": {
+    "r2": 0.998,
+    "rmse": 0.42,
+    "mae": 0.277,
+    "mape": 0.43
+  },
+  "champion": "XGBoost"
+}
